@@ -11,7 +11,7 @@ const Tables = () => {
             <div className='flex items-center justify-between px-10 py-4'>
                 <div className='flex items-center gap-4'>
                     <BackButton />
-                    <h1 className='text-[#f5f5f5] text-2xl font-bold tracking-wide'></h1>
+                    <h1 className='text-[#f5f5f5] text-2xl font-bold tracking-wide'>Tables</h1>
                 </div>
 
                 <TableCard />
